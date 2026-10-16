@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/dreamcast/the-king-of-fighters-2000)**.
+
 Traducción al **español de España** de *The King of Fighters 2000* para Dreamcast (versión
 japonesa de Playmore, 2002), traducida directamente del japonés.
 
